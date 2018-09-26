@@ -1,0 +1,20 @@
+*****In home page :
+
+####select domain
+1."SYSTEM"
+2."A.I"
+3."THEORY"
+
+****In Professor list page:
+
+####for selecting index of professor
+1. "ONE"  
+2."TWO"
+3."THREE"
+4."FOUR"
+5."FIVE"
+
+####to navigate from one to another page
+6."BACK"
+7."NEXT"
+8."EXIT"
